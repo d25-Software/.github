@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/346748494?s=400&u=ccd4138de7e0caadb1e5fd70d9d6be126f784319&v=4" alt="D25 Technologies Logo" width="180" height="180" />
+
 # ⚡ D25 TECHNOLOGIES
 
 ### *Driven by Innovation. Built for the Future.*
